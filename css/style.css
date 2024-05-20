@@ -69,6 +69,10 @@ body {
   margin: 0;
 }
 
+.doa-image{
+  width: 350px;
+}
+
 a {
   color: var(--first-color);
   -webkit-transition: 0.5s;
